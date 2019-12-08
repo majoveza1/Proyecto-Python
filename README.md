@@ -2,6 +2,16 @@
 
 Estos son los notebooks creados para la entrega del ejercicio final del Pyhton.
 
+
+Integrantes del Grupo 1:
+
+- Juan Ignacio Carignano 
+- Dennier Agreda López 
+- Karla Rojas Velez 
+- María José Velandia Zambrano
+
+
+
 Ejecutarlo en el siguiente orden.
 
 

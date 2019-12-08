@@ -22,7 +22,8 @@ Ejecutarlo en el siguiente orden.
 
 Las dependencias asociadas a la correcta ejecución y visualización de nuestra implementación son las siguientes:
 
-correr el comando para instalar : 
+
+correr el siguiente comando para instalar los paquetes necesarios: 
 
 - conda install pydotplus ó pip install pydotplus
 - conda install plotly  ó pip install plotly
